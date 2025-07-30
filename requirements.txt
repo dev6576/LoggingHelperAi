@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+openai
+pydantic
+python-dotenv
+PyGithub
+faiss-cpu
+aiofiles
+sentence_transformers
+huggingface_hub[hf_xet]
+python-multipart
+transformers 
+torch
+hf_xet
